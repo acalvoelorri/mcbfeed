@@ -21,17 +21,21 @@
       <itunes:image href="https://static-2.ivoox.com/canales/5/9/8/2/1671607592895_XXL.jpg?ts=1607592970" />
       <itunes:explicit>no</itunes:explicit>
       <itunes:type>episodic</itunes:type>
-      <itunes:category text="Society &amp; Culture" />
+      <itunes:category text="Society &amp; Culture" />    
       <item>
-         <title><![CDATA[#09 Juventud (Intro)]]></title>
+         <title>
+            <![CDATA[ #09 Juventud (Intro) ]]>
+         </title>
          <link>https://www.ivoox.com/09-juventud-intro-audios-mp3_rf_79433713_1.html</link>
-         <enclosure url="https://www.ivoox.com/09-juventud-intro_mf_79433713_feed_1.mp3" type="audio/mpeg" length="4117969" />
-         <description><![CDATA[Te invitamos a un viaje muy distinto a los que ya hemos emprendido en este podcast. "Juventud" es un retrato generacional en forma de tríptico sonoro. Esto que vas a escuchar es el adelanto del primer programa que publicaremos en enero. Hemos entrevistado a doce jóvenes de entre 16 y 22 años, buscando voces diversas. Queríamos escuchar lo que piensa su generación.]]></description>
+         <enclosure url="https://www.ivoox.com/09-juventud-intro_mf_79433713_feed_1.mp3" type="audio/mpeg" length="4117945"/>
+         <description>
+            <![CDATA[ Te invitamos a un viaje muy distinto a los que ya hemos emprendido en este podcast. "Juventud" es un retrato generacional en forma de tríptico sonoro. Esto que vas a escuchar es el adelanto del primer programa que publicaremos en enero. Hemos entrevistado a doce jóvenes de entre 16 y 22 años, buscando voces diversas. Queríamos escuchar lo que piensa su generación. ]]>
+         </description>
          <pubDate>Fri, 10 Dec 2021 10:16:47 +0100</pubDate>
          <itunes:duration>08:34</itunes:duration>
          <itunes:episodeType>full</itunes:episodeType>
          <guid>https://www.ivoox.com/79433713</guid>
-         <itunes:image href="https://static-1.ivoox.com/audios/0/8/7/7/8291639127780_XXL.jpg" />
+         <itunes:image href="https://static-1.ivoox.com/audios/0/8/7/7/8291639127780_XXL.jpg"/>
       </item>
    </channel>
 </rss>
